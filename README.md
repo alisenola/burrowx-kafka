@@ -1,5 +1,3 @@
-# WARNING: This repo is not maintained anymore, please use https://github.com/danielqsj/kafka_exporter
-
 
 ## burrowx - kafka offset lag monitor,stored by influxdb
 
